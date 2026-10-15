@@ -1,0 +1,6 @@
+{
+  "name": "CDI RPM Limiter Wemos D1 Mini - Firmware Generator & Simulator",
+  "description": "Generator kode .ino Wemos D1 Mini (ESP8266) untuk limiter CDI pemutus pulser dengan modulasi PWM, wiring diagram pengaman optocoupler, dan simulator RPM interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
